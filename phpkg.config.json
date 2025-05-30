@@ -1,0 +1,14 @@
+{
+    "map": {
+        "PhpRepos\\Logger": "Source"
+    },
+    "autoloads": [],
+    "excludes": [],
+    "entry-points": [],
+    "executables": [],
+    "import-file": "phpkg.imports.php",
+    "packages-directory": "Packages",
+    "packages": {
+        "https:\/\/github.com\/ramsey\/uuid.git": "4.7.6"
+    }
+}
