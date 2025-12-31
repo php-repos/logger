@@ -6,9 +6,10 @@
     "excludes": [],
     "entry-points": [],
     "executables": [],
-    "import-file": "phpkg.imports.php",
     "packages-directory": "Packages",
+    "import-file": "phpkg.imports.php",
     "packages": {
-        "https:\/\/github.com\/ramsey\/uuid.git": "4.7.6"
-    }
+        "https:\/\/github.com\/ramsey\/uuid.git": "4.9.2"
+    },
+    "aliases": []
 }
